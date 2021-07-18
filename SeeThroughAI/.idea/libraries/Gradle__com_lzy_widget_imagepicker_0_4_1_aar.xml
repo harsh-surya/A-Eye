@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.lzy.widget:imagepicker:0.4.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a568b2e4904044f291ef71c9a55d5c21/jetified-imagepicker-0.4.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a568b2e4904044f291ef71c9a55d5c21/jetified-imagepicker-0.4.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a568b2e4904044f291ef71c9a55d5c21/jetified-imagepicker-0.4.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lzy.widget/imagepicker/0.4.1/c6a72e11f56693da0083acf01ea3fc08011c66cf/imagepicker-0.4.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lzy.widget/imagepicker/0.4.1/ef52600b613783c10148768adb172d361a6acd5a/imagepicker-0.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
