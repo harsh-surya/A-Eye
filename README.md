@@ -11,3 +11,6 @@ before running app.py some specific files must be added in the following way:
 
 
 Link to the files is [here](https://drive.google.com/drive/u/0/folders/1vzTwutUHE5DkhD44sLmkAvZVVKEbBOkI).
+
+
+![one pager](https://i.postimg.cc/K8VfrQYf/A-EYE-one-pager2.png)
